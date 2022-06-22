@@ -1,0 +1,16 @@
+2022-06-22 13:58:52,079 DEBUG l.Listeners [TestNG-test=All tests-1] +++Test mainPagelinktestForLaboratoryProfessionals started+++
+2022-06-22 13:58:52,106 DEBUG b.CepheidTestObjects [TestNG-test=All tests-1] mainPagelinktestForLaboratoryProfessionals
+2022-06-22 13:58:53,046 INFO b.CepheidTestObjects [TestNG-test=All tests-1] Logged using username = https://www.cepheid.com
+2022-06-22 13:58:54,745 INFO b.CepheidTestObjects [TestNG-test=All tests-1] Logged using username = [[ChromeDriver: chrome on MAC (8d0aa802281a3543ffa4b0b0b6208069)] -> xpath: //*[@id='profile-selector']/div[1]/a[1]]
+2022-06-22 13:58:58,928 DEBUG l.Listeners [TestNG-test=All tests-1] +++Test mainPageHeaderForLaboratoryProfessionalsExist started+++
+2022-06-22 13:58:58,929 DEBUG b.CepheidTestObjects [TestNG-test=All tests-1] mainPageHeaderForLaboratoryProfessionalsExist
+2022-06-22 13:59:06,095 DEBUG l.Listeners [TestNG-test=All tests-1] +++Test mainPageHeaderForLaboratoryProfessionalsDiv started+++
+2022-06-22 13:59:06,110 DEBUG b.CepheidTestObjects [TestNG-test=All tests-1] mainPageHeaderForLaboratoryProfessionalsDiv
+2022-06-22 14:01:01,552 DEBUG l.Listeners [TestNG-test=All tests-1] +++Test mainPagelinktestForLaboratoryProfessionals started+++
+2022-06-22 14:01:01,558 DEBUG b.CepheidTestObjects [TestNG-test=All tests-1] mainPagelinktestForLaboratoryProfessionals
+2022-06-22 14:01:02,502 INFO b.CepheidTestObjects [TestNG-test=All tests-1] URL = https://www.cepheid.com
+2022-06-22 14:01:03,283 INFO b.CepheidTestObjects [TestNG-test=All tests-1] LINK = [[ChromeDriver: chrome on MAC (44793eafe1f09720309ac67b8b057f5f)] -> xpath: //*[@id='profile-selector']/div[1]/a[1]]
+2022-06-22 14:01:07,598 DEBUG l.Listeners [TestNG-test=All tests-1] +++Test mainPageHeaderForLaboratoryProfessionalsExist started+++
+2022-06-22 14:01:07,618 DEBUG b.CepheidTestObjects [TestNG-test=All tests-1] mainPageHeaderForLaboratoryProfessionalsExist
+2022-06-22 14:01:13,654 DEBUG l.Listeners [TestNG-test=All tests-1] +++Test mainPageHeaderForLaboratoryProfessionalsDiv started+++
+2022-06-22 14:01:13,661 DEBUG b.CepheidTestObjects [TestNG-test=All tests-1] mainPageHeaderForLaboratoryProfessionalsDiv

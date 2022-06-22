@@ -1,5 +1,7 @@
 package pageObjects;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
@@ -8,6 +10,7 @@ public class CepheidMainPage  extends BasePage {
     public CepheidMainPage(WebDriver driver) {
         super(driver);
     }
+
 
     // check Laboratory Professionals
     public WebElement getTranslateForLaboratoryProfessionals(){
